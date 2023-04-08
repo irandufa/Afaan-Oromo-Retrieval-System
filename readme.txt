@@ -1,10 +1,4 @@
-                                                                           Haramaya University
-                                                         College of Computing and Informatatics
-                                                             Department of Information Science
-                                                                         this project was done by:
-                                                       Irandufa Indebu  idno: sgs/0612/11
-                                                    
- Direction of using the project:
+ Direction of using the System:
                                   
 This project has two parts/modules: indexing and searching
  The indexing module used to create vocabulary files and posting files,
