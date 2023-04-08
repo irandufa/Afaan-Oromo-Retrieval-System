@@ -2,8 +2,8 @@
                                                          College of Computing and Informatatics
                                                              Department of Information Science
                                                                          this project was done by:
-                                                       1. Irandufa Indebu  idno: sgs/0612/11
-                                                       2. Getaneh
+                                                       Irandufa Indebu  idno: sgs/0612/11
+                                                    
  Direction of using the project:
                                   
 This project has two parts/modules: indexing and searching
