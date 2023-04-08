@@ -1,0 +1,10 @@
+AfaanOromodocumentcollection\\document1.txt
+AfaanOromodocumentcollection\\document2.txt
+AfaanOromodocumentcollection\\document3.txt
+AfaanOromodocumentcollection\\document4.txt
+AfaanOromodocumentcollection\\document5.txt
+AfaanOromodocumentcollection\\document6.txt
+AfaanOromodocumentcollection\\document7.txt
+AfaanOromodocumentcollection\\document8.txt
+AfaanOromodocumentcollection\\document9.txt
+AfaanOromodocumentcollection\\document10.txt
